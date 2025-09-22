@@ -61,7 +61,6 @@ I built an interactive web app with two main pages:
 ## 🔮 Future Improvements
 - Apply regularization techniques to prevent overfitting.  
 - Experiment with advanced models (XGBoost, LightGBM).  
-- Deploy Streamlit app on the cloud for wider accessibility.  
 
 ---
 
